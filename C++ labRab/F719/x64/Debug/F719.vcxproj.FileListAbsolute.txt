@@ -1,0 +1,5 @@
+D:\коды\Лабы\F719\x64\Debug\F719.vcxproj.AssemblyReference.cache
+D:\коды\Лабы\F719\x64\Debug\F719.vcxproj.SuggestedBindingRedirects.cache
+D:\коды\Лабы\F719\x64\Debug\F719.exe
+D:\коды\Лабы\F719\x64\Debug\F719.MyForm.resources
+D:\коды\Лабы\F719\x64\Debug\F719.vcxproj.GenerateResource.cache

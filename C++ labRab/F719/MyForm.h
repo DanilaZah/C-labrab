@@ -119,7 +119,7 @@ namespace F719 {
 					f = f + small_increase; //как f++, только меньше				
 				}
 			}
-			catch (networkIOException& e)
+			catch (...)
 			{
 				MessageBox::Show("Что-то пошло не так...");
 			}
